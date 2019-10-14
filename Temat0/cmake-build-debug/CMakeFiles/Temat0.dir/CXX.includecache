@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jan/studia/FAIS-projektowanie-obiektowe/Temat0/IDao.h
+IStorageObject.h
+/home/jan/studia/FAIS-projektowanie-obiektowe/Temat0/IStorageObject.h
+
+/home/jan/studia/FAIS-projektowanie-obiektowe/Temat0/IStorageObject.h
+
+/home/jan/studia/FAIS-projektowanie-obiektowe/Temat0/Person.h
+IStorageObject.h
+/home/jan/studia/FAIS-projektowanie-obiektowe/Temat0/IStorageObject.h
+string
+-
+
+/home/jan/studia/FAIS-projektowanie-obiektowe/Temat0/PersonDao.h
+IDao.h
+/home/jan/studia/FAIS-projektowanie-obiektowe/Temat0/IDao.h
+Person.h
+/home/jan/studia/FAIS-projektowanie-obiektowe/Temat0/Person.h
+list
+-
+
+/home/jan/studia/FAIS-projektowanie-obiektowe/Temat0/main.cpp
+iostream
+-
+string
+-
+Person.h
+/home/jan/studia/FAIS-projektowanie-obiektowe/Temat0/Person.h
+PersonDao.h
+/home/jan/studia/FAIS-projektowanie-obiektowe/Temat0/PersonDao.h
+
