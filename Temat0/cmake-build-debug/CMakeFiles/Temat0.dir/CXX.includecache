@@ -6,33 +6,17 @@
 
 #IncludeRegexTransform: 
 
-/home/jan/studia/FAIS-projektowanie-obiektowe/Temat0/IDao.h
-IStorageObject.h
-/home/jan/studia/FAIS-projektowanie-obiektowe/Temat0/IStorageObject.h
-
-/home/jan/studia/FAIS-projektowanie-obiektowe/Temat0/IStorageObject.h
-
-/home/jan/studia/FAIS-projektowanie-obiektowe/Temat0/Person.h
-IStorageObject.h
-/home/jan/studia/FAIS-projektowanie-obiektowe/Temat0/IStorageObject.h
-string
--
-
-/home/jan/studia/FAIS-projektowanie-obiektowe/Temat0/PersonDao.h
-IDao.h
-/home/jan/studia/FAIS-projektowanie-obiektowe/Temat0/IDao.h
-Person.h
-/home/jan/studia/FAIS-projektowanie-obiektowe/Temat0/Person.h
-list
--
-
-/home/jan/studia/FAIS-projektowanie-obiektowe/Temat0/main.cpp
+/home/jan/studia/FAIS-projektowanie-obiektowe/Temat0/Book.cpp
+Book.h
+/home/jan/studia/FAIS-projektowanie-obiektowe/Temat0/Book.h
 iostream
 -
+
+/home/jan/studia/FAIS-projektowanie-obiektowe/Temat0/Book.h
+IStorageObject.h
+/home/jan/studia/FAIS-projektowanie-obiektowe/Temat0/IStorageObject.h
 string
 -
-Person.h
-/home/jan/studia/FAIS-projektowanie-obiektowe/Temat0/Person.h
-PersonDao.h
-/home/jan/studia/FAIS-projektowanie-obiektowe/Temat0/PersonDao.h
+
+/home/jan/studia/FAIS-projektowanie-obiektowe/Temat0/IStorageObject.h
 

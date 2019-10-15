@@ -2,9 +2,9 @@
 #include "iostream"
 
 IDao::IDao() {
-    std::cout<<"IDAO constructor";
+//    std::cout<<"IDAO constructor\n";
 }
 
 IDao::~IDao() {
-    std::cout<<"IDAO destructor";
+//    std::cout<<"IDAO destructor\n";
 }

@@ -1,15 +1,16 @@
 #include "PersonDao.h"
+#include <iostream>
 
 PersonDao::PersonDao() {
-    std::cout << "PersonDao constructor";
+//    std::cout << "PersonDao constructor\n";
 }
 
 PersonDao::~PersonDao() {
-    std::cout << "PersonDao destructor";
+//    std::cout << "PersonDao destructor\n";
 }
 
 void PersonDao::update(IStorageObject* iStorageObject) {
-    Person* person = iStorageObject;
+    Person* person = static_cast<Person*>(iStorageObject);
     for(auto i = personList.begin(); i != personList.end(); i++) {
         if(i->id == person->id) {
             i->name = person->name;
@@ -26,18 +27,20 @@ IStorageObject* PersonDao::read(unsigned int id) {
             return &(*i);
         }
     }
+    return nullptr;
 }
 
 void PersonDao::remove(IStorageObject *iStorageObject) {
+    Person* person = static_cast<Person*>(iStorageObject);
     for(auto i = personList.begin(); i != personList.end(); i++) {
-        if (i->id == id) {
+        if (i->id == person->id) {
             personList.erase(i);
-            delete *i;
             return;
         }
     }
 }
 
 void PersonDao::store(IStorageObject *iStorageObject) {
-    personList.add(isStorageObject);
+    Person* person = static_cast<Person*>(iStorageObject);
+    personList.push_back(*person);
 }

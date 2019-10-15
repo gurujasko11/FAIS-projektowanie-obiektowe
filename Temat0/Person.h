@@ -8,8 +8,8 @@ class Person : public IStorageObject{
 public:
     Person();
     Person(std::string name_, std::string surename_, unsigned int age_);
-    ~Person();
-    void printMe();
+    virtual ~Person();
+    virtual void printMe();
     const unsigned int id;
     std::string name;
     std::string surename;

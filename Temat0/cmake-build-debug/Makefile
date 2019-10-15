@@ -123,6 +123,168 @@ Temat0/fast:
 	$(MAKE) -f CMakeFiles/Temat0.dir/build.make CMakeFiles/Temat0.dir/build
 .PHONY : Temat0/fast
 
+Book.o: Book.cpp.o
+
+.PHONY : Book.o
+
+# target to build an object file
+Book.cpp.o:
+	$(MAKE) -f CMakeFiles/Temat0.dir/build.make CMakeFiles/Temat0.dir/Book.cpp.o
+.PHONY : Book.cpp.o
+
+Book.i: Book.cpp.i
+
+.PHONY : Book.i
+
+# target to preprocess a source file
+Book.cpp.i:
+	$(MAKE) -f CMakeFiles/Temat0.dir/build.make CMakeFiles/Temat0.dir/Book.cpp.i
+.PHONY : Book.cpp.i
+
+Book.s: Book.cpp.s
+
+.PHONY : Book.s
+
+# target to generate assembly for a file
+Book.cpp.s:
+	$(MAKE) -f CMakeFiles/Temat0.dir/build.make CMakeFiles/Temat0.dir/Book.cpp.s
+.PHONY : Book.cpp.s
+
+BookDao.o: BookDao.cpp.o
+
+.PHONY : BookDao.o
+
+# target to build an object file
+BookDao.cpp.o:
+	$(MAKE) -f CMakeFiles/Temat0.dir/build.make CMakeFiles/Temat0.dir/BookDao.cpp.o
+.PHONY : BookDao.cpp.o
+
+BookDao.i: BookDao.cpp.i
+
+.PHONY : BookDao.i
+
+# target to preprocess a source file
+BookDao.cpp.i:
+	$(MAKE) -f CMakeFiles/Temat0.dir/build.make CMakeFiles/Temat0.dir/BookDao.cpp.i
+.PHONY : BookDao.cpp.i
+
+BookDao.s: BookDao.cpp.s
+
+.PHONY : BookDao.s
+
+# target to generate assembly for a file
+BookDao.cpp.s:
+	$(MAKE) -f CMakeFiles/Temat0.dir/build.make CMakeFiles/Temat0.dir/BookDao.cpp.s
+.PHONY : BookDao.cpp.s
+
+IDao.o: IDao.cpp.o
+
+.PHONY : IDao.o
+
+# target to build an object file
+IDao.cpp.o:
+	$(MAKE) -f CMakeFiles/Temat0.dir/build.make CMakeFiles/Temat0.dir/IDao.cpp.o
+.PHONY : IDao.cpp.o
+
+IDao.i: IDao.cpp.i
+
+.PHONY : IDao.i
+
+# target to preprocess a source file
+IDao.cpp.i:
+	$(MAKE) -f CMakeFiles/Temat0.dir/build.make CMakeFiles/Temat0.dir/IDao.cpp.i
+.PHONY : IDao.cpp.i
+
+IDao.s: IDao.cpp.s
+
+.PHONY : IDao.s
+
+# target to generate assembly for a file
+IDao.cpp.s:
+	$(MAKE) -f CMakeFiles/Temat0.dir/build.make CMakeFiles/Temat0.dir/IDao.cpp.s
+.PHONY : IDao.cpp.s
+
+IStorageObject.o: IStorageObject.cpp.o
+
+.PHONY : IStorageObject.o
+
+# target to build an object file
+IStorageObject.cpp.o:
+	$(MAKE) -f CMakeFiles/Temat0.dir/build.make CMakeFiles/Temat0.dir/IStorageObject.cpp.o
+.PHONY : IStorageObject.cpp.o
+
+IStorageObject.i: IStorageObject.cpp.i
+
+.PHONY : IStorageObject.i
+
+# target to preprocess a source file
+IStorageObject.cpp.i:
+	$(MAKE) -f CMakeFiles/Temat0.dir/build.make CMakeFiles/Temat0.dir/IStorageObject.cpp.i
+.PHONY : IStorageObject.cpp.i
+
+IStorageObject.s: IStorageObject.cpp.s
+
+.PHONY : IStorageObject.s
+
+# target to generate assembly for a file
+IStorageObject.cpp.s:
+	$(MAKE) -f CMakeFiles/Temat0.dir/build.make CMakeFiles/Temat0.dir/IStorageObject.cpp.s
+.PHONY : IStorageObject.cpp.s
+
+Person.o: Person.cpp.o
+
+.PHONY : Person.o
+
+# target to build an object file
+Person.cpp.o:
+	$(MAKE) -f CMakeFiles/Temat0.dir/build.make CMakeFiles/Temat0.dir/Person.cpp.o
+.PHONY : Person.cpp.o
+
+Person.i: Person.cpp.i
+
+.PHONY : Person.i
+
+# target to preprocess a source file
+Person.cpp.i:
+	$(MAKE) -f CMakeFiles/Temat0.dir/build.make CMakeFiles/Temat0.dir/Person.cpp.i
+.PHONY : Person.cpp.i
+
+Person.s: Person.cpp.s
+
+.PHONY : Person.s
+
+# target to generate assembly for a file
+Person.cpp.s:
+	$(MAKE) -f CMakeFiles/Temat0.dir/build.make CMakeFiles/Temat0.dir/Person.cpp.s
+.PHONY : Person.cpp.s
+
+PersonDao.o: PersonDao.cpp.o
+
+.PHONY : PersonDao.o
+
+# target to build an object file
+PersonDao.cpp.o:
+	$(MAKE) -f CMakeFiles/Temat0.dir/build.make CMakeFiles/Temat0.dir/PersonDao.cpp.o
+.PHONY : PersonDao.cpp.o
+
+PersonDao.i: PersonDao.cpp.i
+
+.PHONY : PersonDao.i
+
+# target to preprocess a source file
+PersonDao.cpp.i:
+	$(MAKE) -f CMakeFiles/Temat0.dir/build.make CMakeFiles/Temat0.dir/PersonDao.cpp.i
+.PHONY : PersonDao.cpp.i
+
+PersonDao.s: PersonDao.cpp.s
+
+.PHONY : PersonDao.s
+
+# target to generate assembly for a file
+PersonDao.cpp.s:
+	$(MAKE) -f CMakeFiles/Temat0.dir/build.make CMakeFiles/Temat0.dir/PersonDao.cpp.s
+.PHONY : PersonDao.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -159,6 +321,24 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... Temat0"
 	@echo "... edit_cache"
+	@echo "... Book.o"
+	@echo "... Book.i"
+	@echo "... Book.s"
+	@echo "... BookDao.o"
+	@echo "... BookDao.i"
+	@echo "... BookDao.s"
+	@echo "... IDao.o"
+	@echo "... IDao.i"
+	@echo "... IDao.s"
+	@echo "... IStorageObject.o"
+	@echo "... IStorageObject.i"
+	@echo "... IStorageObject.s"
+	@echo "... Person.o"
+	@echo "... Person.i"
+	@echo "... Person.s"
+	@echo "... PersonDao.o"
+	@echo "... PersonDao.i"
+	@echo "... PersonDao.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

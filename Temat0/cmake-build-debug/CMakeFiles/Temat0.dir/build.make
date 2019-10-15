@@ -57,9 +57,48 @@ include CMakeFiles/Temat0.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/Temat0.dir/flags.make
 
+CMakeFiles/Temat0.dir/Book.cpp.o: CMakeFiles/Temat0.dir/flags.make
+CMakeFiles/Temat0.dir/Book.cpp.o: ../Book.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/jan/studia/FAIS-projektowanie-obiektowe/Temat0/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Temat0.dir/Book.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Temat0.dir/Book.cpp.o -c /home/jan/studia/FAIS-projektowanie-obiektowe/Temat0/Book.cpp
+
+CMakeFiles/Temat0.dir/Book.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Temat0.dir/Book.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/jan/studia/FAIS-projektowanie-obiektowe/Temat0/Book.cpp > CMakeFiles/Temat0.dir/Book.cpp.i
+
+CMakeFiles/Temat0.dir/Book.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Temat0.dir/Book.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/jan/studia/FAIS-projektowanie-obiektowe/Temat0/Book.cpp -o CMakeFiles/Temat0.dir/Book.cpp.s
+
+CMakeFiles/Temat0.dir/IDao.cpp.o: CMakeFiles/Temat0.dir/flags.make
+CMakeFiles/Temat0.dir/IDao.cpp.o: ../IDao.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/jan/studia/FAIS-projektowanie-obiektowe/Temat0/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Temat0.dir/IDao.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Temat0.dir/IDao.cpp.o -c /home/jan/studia/FAIS-projektowanie-obiektowe/Temat0/IDao.cpp
+
+CMakeFiles/Temat0.dir/IDao.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Temat0.dir/IDao.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/jan/studia/FAIS-projektowanie-obiektowe/Temat0/IDao.cpp > CMakeFiles/Temat0.dir/IDao.cpp.i
+
+CMakeFiles/Temat0.dir/IDao.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Temat0.dir/IDao.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/jan/studia/FAIS-projektowanie-obiektowe/Temat0/IDao.cpp -o CMakeFiles/Temat0.dir/IDao.cpp.s
+
+CMakeFiles/Temat0.dir/IStorageObject.cpp.o: CMakeFiles/Temat0.dir/flags.make
+CMakeFiles/Temat0.dir/IStorageObject.cpp.o: ../IStorageObject.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/jan/studia/FAIS-projektowanie-obiektowe/Temat0/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Temat0.dir/IStorageObject.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Temat0.dir/IStorageObject.cpp.o -c /home/jan/studia/FAIS-projektowanie-obiektowe/Temat0/IStorageObject.cpp
+
+CMakeFiles/Temat0.dir/IStorageObject.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Temat0.dir/IStorageObject.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/jan/studia/FAIS-projektowanie-obiektowe/Temat0/IStorageObject.cpp > CMakeFiles/Temat0.dir/IStorageObject.cpp.i
+
+CMakeFiles/Temat0.dir/IStorageObject.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Temat0.dir/IStorageObject.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/jan/studia/FAIS-projektowanie-obiektowe/Temat0/IStorageObject.cpp -o CMakeFiles/Temat0.dir/IStorageObject.cpp.s
+
 CMakeFiles/Temat0.dir/main.cpp.o: CMakeFiles/Temat0.dir/flags.make
 CMakeFiles/Temat0.dir/main.cpp.o: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/jan/studia/FAIS-projektowanie-obiektowe/Temat0/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Temat0.dir/main.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/jan/studia/FAIS-projektowanie-obiektowe/Temat0/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Temat0.dir/main.cpp.o"
 	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Temat0.dir/main.cpp.o -c /home/jan/studia/FAIS-projektowanie-obiektowe/Temat0/main.cpp
 
 CMakeFiles/Temat0.dir/main.cpp.i: cmake_force
@@ -70,17 +109,68 @@ CMakeFiles/Temat0.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Temat0.dir/main.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/jan/studia/FAIS-projektowanie-obiektowe/Temat0/main.cpp -o CMakeFiles/Temat0.dir/main.cpp.s
 
+CMakeFiles/Temat0.dir/Person.cpp.o: CMakeFiles/Temat0.dir/flags.make
+CMakeFiles/Temat0.dir/Person.cpp.o: ../Person.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/jan/studia/FAIS-projektowanie-obiektowe/Temat0/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Temat0.dir/Person.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Temat0.dir/Person.cpp.o -c /home/jan/studia/FAIS-projektowanie-obiektowe/Temat0/Person.cpp
+
+CMakeFiles/Temat0.dir/Person.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Temat0.dir/Person.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/jan/studia/FAIS-projektowanie-obiektowe/Temat0/Person.cpp > CMakeFiles/Temat0.dir/Person.cpp.i
+
+CMakeFiles/Temat0.dir/Person.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Temat0.dir/Person.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/jan/studia/FAIS-projektowanie-obiektowe/Temat0/Person.cpp -o CMakeFiles/Temat0.dir/Person.cpp.s
+
+CMakeFiles/Temat0.dir/PersonDao.cpp.o: CMakeFiles/Temat0.dir/flags.make
+CMakeFiles/Temat0.dir/PersonDao.cpp.o: ../PersonDao.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/jan/studia/FAIS-projektowanie-obiektowe/Temat0/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/Temat0.dir/PersonDao.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Temat0.dir/PersonDao.cpp.o -c /home/jan/studia/FAIS-projektowanie-obiektowe/Temat0/PersonDao.cpp
+
+CMakeFiles/Temat0.dir/PersonDao.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Temat0.dir/PersonDao.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/jan/studia/FAIS-projektowanie-obiektowe/Temat0/PersonDao.cpp > CMakeFiles/Temat0.dir/PersonDao.cpp.i
+
+CMakeFiles/Temat0.dir/PersonDao.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Temat0.dir/PersonDao.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/jan/studia/FAIS-projektowanie-obiektowe/Temat0/PersonDao.cpp -o CMakeFiles/Temat0.dir/PersonDao.cpp.s
+
+CMakeFiles/Temat0.dir/BookDao.cpp.o: CMakeFiles/Temat0.dir/flags.make
+CMakeFiles/Temat0.dir/BookDao.cpp.o: ../BookDao.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/jan/studia/FAIS-projektowanie-obiektowe/Temat0/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/Temat0.dir/BookDao.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Temat0.dir/BookDao.cpp.o -c /home/jan/studia/FAIS-projektowanie-obiektowe/Temat0/BookDao.cpp
+
+CMakeFiles/Temat0.dir/BookDao.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Temat0.dir/BookDao.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/jan/studia/FAIS-projektowanie-obiektowe/Temat0/BookDao.cpp > CMakeFiles/Temat0.dir/BookDao.cpp.i
+
+CMakeFiles/Temat0.dir/BookDao.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Temat0.dir/BookDao.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/jan/studia/FAIS-projektowanie-obiektowe/Temat0/BookDao.cpp -o CMakeFiles/Temat0.dir/BookDao.cpp.s
+
 # Object files for target Temat0
 Temat0_OBJECTS = \
-"CMakeFiles/Temat0.dir/main.cpp.o"
+"CMakeFiles/Temat0.dir/Book.cpp.o" \
+"CMakeFiles/Temat0.dir/IDao.cpp.o" \
+"CMakeFiles/Temat0.dir/IStorageObject.cpp.o" \
+"CMakeFiles/Temat0.dir/main.cpp.o" \
+"CMakeFiles/Temat0.dir/Person.cpp.o" \
+"CMakeFiles/Temat0.dir/PersonDao.cpp.o" \
+"CMakeFiles/Temat0.dir/BookDao.cpp.o"
 
 # External object files for target Temat0
 Temat0_EXTERNAL_OBJECTS =
 
+Temat0: CMakeFiles/Temat0.dir/Book.cpp.o
+Temat0: CMakeFiles/Temat0.dir/IDao.cpp.o
+Temat0: CMakeFiles/Temat0.dir/IStorageObject.cpp.o
 Temat0: CMakeFiles/Temat0.dir/main.cpp.o
+Temat0: CMakeFiles/Temat0.dir/Person.cpp.o
+Temat0: CMakeFiles/Temat0.dir/PersonDao.cpp.o
+Temat0: CMakeFiles/Temat0.dir/BookDao.cpp.o
 Temat0: CMakeFiles/Temat0.dir/build.make
 Temat0: CMakeFiles/Temat0.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/jan/studia/FAIS-projektowanie-obiektowe/Temat0/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable Temat0"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/jan/studia/FAIS-projektowanie-obiektowe/Temat0/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking CXX executable Temat0"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Temat0.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

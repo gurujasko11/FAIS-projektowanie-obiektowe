@@ -6,5 +6,5 @@ CXX_FLAGS = -g   -std=gnu++14
 
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/jan/studia/FAIS-projektowanie-obiektowe/Temat0 
+CXX_INCLUDES = -I/home/jan/studia/FAIS-projektowanie-obiektowe/Temat0/. 
 
