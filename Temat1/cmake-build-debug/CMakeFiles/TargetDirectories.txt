@@ -1,0 +1,3 @@
+/home/jan/studia/FAIS-projektowanie-obiektowe/Temat1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/jan/studia/FAIS-projektowanie-obiektowe/Temat1/cmake-build-debug/CMakeFiles/Temat1.dir
+/home/jan/studia/FAIS-projektowanie-obiektowe/Temat1/cmake-build-debug/CMakeFiles/edit_cache.dir
