@@ -6,5 +6,7 @@ set(CMAKE_CXX_STANDARD 14)
 add_executable(Temat2 main.cpp
         Cell.cpp
         Cell.h
+        CellBuilder.cpp
+        CellBuilder.h
         Organel.cpp
         Organel.h)

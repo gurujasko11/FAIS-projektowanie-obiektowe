@@ -6,7 +6,7 @@
 class CellBuilder {
 public:
     void addOrganel(OrganelType type);
-    Cell* buildCell(CellType type);
+    Cell* buildCell(CellType type = NONE);
 private:
     std::list<Organel> organells;
 };

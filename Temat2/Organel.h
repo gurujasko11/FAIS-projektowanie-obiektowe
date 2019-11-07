@@ -1,7 +1,8 @@
 #ifndef ORGANEL_H
 #define ORGANEL_H
 enum OrganelType{
-    WALL = 0,
+    NONE_TYPE = 0,
+    WALL,
     MEMBRANE,
     NUCLEUS,
     NUCLEUS_MEMBRANE,

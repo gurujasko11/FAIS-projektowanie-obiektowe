@@ -11,6 +11,7 @@ enum CellType {
 class Cell {
 public:
     Cell(CellType type_, std::list<Organel> organellsList);
+    void print();
 private:
     CellType type;
     std::list<Organel> organelles;
