@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jan/studia/FAIS-projektowanie-obiektowe/Temat6/Calculator.h
+Figure.h
+/home/jan/studia/FAIS-projektowanie-obiektowe/Temat6/Figure.h
+Triangle.h
+/home/jan/studia/FAIS-projektowanie-obiektowe/Temat6/Triangle.h
+
+/home/jan/studia/FAIS-projektowanie-obiektowe/Temat6/Figure.h
+
+/home/jan/studia/FAIS-projektowanie-obiektowe/Temat6/Triangle.h
+Figure.h
+/home/jan/studia/FAIS-projektowanie-obiektowe/Temat6/Figure.h
+
+/home/jan/studia/FAIS-projektowanie-obiektowe/Temat6/main.cpp
+iostream
+-
+Calculator.h
+/home/jan/studia/FAIS-projektowanie-obiektowe/Temat6/Calculator.h
+

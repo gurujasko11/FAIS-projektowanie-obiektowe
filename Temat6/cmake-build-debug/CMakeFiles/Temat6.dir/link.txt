@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Temat6.dir/Calculator.cpp.o CMakeFiles/Temat6.dir/Figure.cpp.o CMakeFiles/Temat6.dir/Triangle.cpp.o CMakeFiles/Temat6.dir/Circle.cpp.o CMakeFiles/Temat6.dir/Square.cpp.o CMakeFiles/Temat6.dir/main.cpp.o  -o Temat6 
