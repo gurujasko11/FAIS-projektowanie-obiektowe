@@ -1,0 +1,6 @@
+Implementacja klasy macierzy 3x3 i mnożenia takich macierzy znajduje się w katalogu src, natomiast testy w test.
+(Uruchamiając testy w intellij musiałem zmienić target bytecode version na 8).
+W raportach znajdują się dwa raporty testów mutacyjnych.
+Pierwszy był wykonany tylko dla testu matrixMultiplicationTest, który ponadto nie zawierał 6 ostatnich linii.
+Drugi raport został wykonany dla obecnego kodu testów. Kod nie został przeze mnie zmieniony.
+Jak widać w raportach ilość mutantów, które zostały zabite zwiększyła się po dodaniu testów, czyli wszystko się zgadza.
