@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jan/studia/FAIS-projektowanie-obiektowe/observator/Auction.h
+ObservedSubject.h
+/home/jan/studia/FAIS-projektowanie-obiektowe/observator/ObservedSubject.h
+string
+/home/jan/studia/FAIS-projektowanie-obiektowe/observator/string
+
+/home/jan/studia/FAIS-projektowanie-obiektowe/observator/ObservedSubject.h
+Observer.h
+/home/jan/studia/FAIS-projektowanie-obiektowe/observator/Observer.h
+list
+/home/jan/studia/FAIS-projektowanie-obiektowe/observator/list
+
+/home/jan/studia/FAIS-projektowanie-obiektowe/observator/Observer.h
+
+/home/jan/studia/FAIS-projektowanie-obiektowe/observator/User.h
+Observer.h
+/home/jan/studia/FAIS-projektowanie-obiektowe/observator/Observer.h
+string
+/home/jan/studia/FAIS-projektowanie-obiektowe/observator/string
+
+/home/jan/studia/FAIS-projektowanie-obiektowe/observator/main.cpp
+iostream
+-
+User.h
+/home/jan/studia/FAIS-projektowanie-obiektowe/observator/User.h
+Auction.h
+/home/jan/studia/FAIS-projektowanie-obiektowe/observator/Auction.h
+

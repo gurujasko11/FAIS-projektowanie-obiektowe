@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/observator.dir/Auction.cpp.o CMakeFiles/observator.dir/ObservedSubject.cpp.o CMakeFiles/observator.dir/Observer.cpp.o CMakeFiles/observator.dir/User.cpp.o CMakeFiles/observator.dir/main.cpp.o  -o observator 
